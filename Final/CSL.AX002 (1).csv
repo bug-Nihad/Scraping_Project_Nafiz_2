@@ -1,0 +1,11 @@
+Ticker,Year,Total Post in a Financial Year,Total post related to earnings,Abnormal Discussions,Total number of positive words,Total number of negative words,Total no. of words,Criticism Comments,Sentiment
+CSL,30/06/2010,1 year,1 year,"Post 1 day before, after and this day",3 days,3 days,3 days,,(buy+hold-sell)/total cell
+CSL,30/06/2011,,,"Now for the abnormal attention calculation= sum of cell of view parallel to 1, 0 and -1 divided by sum of cell of view parallel to [-90 to -21]",,,,,
+CSL,30/06/2012,,Single Count,,Greedy Count,Greedy Count,,Cell count,
+CSL,30/06/2013,,Comment Count,,,,,,
+CSL,30/06/2014,,,,Word Count,Word Count,,,
+CSL,30/06/2015,,,,,,,,
+CSL,30/06/2016,,,,,,,,
+CSL,30/06/2017,,,,,,,,
+CSL,30/06/2018,,,,,,,,
+CSL,30/06/2019,,,,,,,,
